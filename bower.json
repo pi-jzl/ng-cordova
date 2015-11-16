@@ -15,7 +15,6 @@
     "**/.*",
     "gulpfile.js",
     "test",
-    "src",
     "config",
     "demo",
     "CONTRIBUTING.md",
